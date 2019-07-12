@@ -1,4 +1,8 @@
 this is the first file i have created through web browser
 First edit from master and to remote master
 Edited from browser1
+<<<<<<< HEAD
 conflict test from dev
+=======
+conflict test from test
+>>>>>>> test
